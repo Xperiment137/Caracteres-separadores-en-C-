@@ -1,3 +1,5 @@
+// no sirve realmente para nada , es codigo sobrante pero con ideas de implementacion  que no quiero olvidar
+
 // string text = " hola amigo  & 1-si & 2- no  # muy bien todo & hola otra vez ";
 
 void InicioOpciones(int op)
